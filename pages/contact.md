@@ -12,7 +12,7 @@ weight: 3
     </section><hr><br>
     <section>
         <h3>Phone</h3>
-        <p>(224) 204-3864</p>
+        <p>+65 8654 4078</p>
     </section><hr><br>
 
     <section>
