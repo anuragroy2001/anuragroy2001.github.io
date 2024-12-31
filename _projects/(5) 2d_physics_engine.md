@@ -1,16 +1,16 @@
 ---
-name: 2D Physics Engine From Scratch 
-tools: [Python, Lagrangian Dynamics, Rigid Body Transform, Impact Update]
+name: Reinfocement Learning for 7-DOF Robot Arm Manipulation 
+tools: [Python, Mujoco Simulator, OpenAI Gymnasium]
 image: https://jiasenzheng.github.io/assets/jack.gif
-description: Simulated a planer multi-body dynamics of a jack in the box with external forces and impacts.
+description: Developed a reinforcement learning environment using MuJoCo and Gymnasium-Robotics to train a 7-DOF robotic arm for precise object manipulation.
 ---
 
-# 2D Physics Engine From Scratch (Jack In the Box) <br><br>
+# Reinfocement Learning for 7-DOF Robot Arm Manipulation <br><br>
 
 
 ### Brief overview
 <br>
-This project simulates a planer multi-body dynamics of a jack in the box. In the simulation, external forces are applied to the box. While the jack is falling freely, it will then experience some collisions with the box's walls.
+This project involves developing and training a reinforcement learning (RL) model to control a 7-degree-of-freedom (7-DOF) robotic arm in a simulated environment. The robotic arm is tasked with performing a pushing operation, where it interacts with a ball and guides it toward a target location. This scenario presents challenges such as precise motion control, dynamic environment interaction, and reward optimization, making it an ideal candidate for advanced RL algorithms.
 
 ### Video demo
 {% include elements/video.html id="pkTauVynRE8" %}
